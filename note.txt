@@ -1,0 +1,5 @@
+create .venv
+python -m venv .venv
+
+aktivasi .venv
+.\.venv\Scripts\Activate.ps1
