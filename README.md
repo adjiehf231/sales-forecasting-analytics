@@ -188,7 +188,7 @@ streamlit run app.py
 
 * **🌐 Live Demo:**
 
-  https://adjieh231-sales-forecasting-analytics.streamlit.app/
+  https://adjiehf231-sales-forecasting-analytics.streamlit.app/
 * **📂 GitHub Repository:**
 
   https://github.com/adjiehf231/sales-forecasting-analytics
