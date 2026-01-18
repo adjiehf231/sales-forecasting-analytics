@@ -204,6 +204,9 @@ streamlit run app.py
 
 > 💡 *Demo link can be deployed via Streamlit Cloud*
 
+---
+
+
 
 ## 📌 Key Takeaways
 
