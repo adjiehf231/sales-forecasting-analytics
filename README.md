@@ -191,23 +191,18 @@ pip install -r requirements.txt
 streamlit run app.py
 </span></span></code></div></div></pre
 
----
 
+---
 ## 🔗 Project Links
+
 
 * **🌐 Live Demo (Streamlit App):**
 
-  👉 *https://adjieh231-sales-forecasting-analytics.streamlit.app/*
+  [https://adjieh231-sales-forecasting-analytics.streamlit.app/](https://adjieh231-sales-forecasting-analytics.streamlit.app/)
 * **📂 GitHub Repository:**
 
-  👉 *[https://github.com/adjiehf231/sales-forecasting-analytics]()*
-
-> 💡 *Demo link can be deployed via Streamlit Cloud*
-
+  [https://github.com/adjiehf231/sales-forecasting-analytics](https://github.com/adjiehf231/sales-forecasting-analytics)
 ---
-
-
-
 ## 📌 Key Takeaways
 
 * Demonstrates **end-to-end data science workflow**
@@ -221,6 +216,6 @@ streamlit run app.py
 
 **Adjie Hari Fajar**
 
-Data Scientis | Data Analyst
+Data Scientist | Data Analyst
 
 📌 Python • Machine Learning • Forecasting • ASAP
