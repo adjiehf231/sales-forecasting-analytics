@@ -9,8 +9,6 @@ venv/
 # Streamlit
 .streamlit/
 
-# Data
-data/raw/*.csv
 
 # Model artifacts
 *.pkl
