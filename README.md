@@ -189,9 +189,21 @@ pip install -r requirements.txt
 
 </span><span># Run application</span><span>
 streamlit run app.py
-</span></span></code></div></div></pre>
+</span></span></code></div></div></pre
 
 ---
+
+## 🔗 Project Links
+
+* **🌐 Live Demo (Streamlit App):**
+
+  👉 *https://adjieh231-sales-forecasting-analytics.streamlit.app/*
+* **📂 GitHub Repository:**
+
+  👉 *[https://github.com/adjiehf231/sales-forecasting-analytics]()*
+
+> 💡 *Demo link can be deployed via Streamlit Cloud*
+
 
 ## 📌 Key Takeaways
 
@@ -208,4 +220,4 @@ streamlit run app.py
 
 Data Scientis | Data Analyst
 
-📌 Python • Machine Learning • Forecasting
+📌 Python • Machine Learning • Forecasting • ASAP
